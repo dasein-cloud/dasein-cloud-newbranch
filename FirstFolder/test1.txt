@@ -1,2 +1,3 @@
 this is the first version 
 and this is the fix for 1.0.0.1
+another hotfix for 1.0.0.2
