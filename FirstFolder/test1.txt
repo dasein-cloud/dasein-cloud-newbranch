@@ -1,4 +1,5 @@
 this is the first version 
 and this is the fix for 1.0.0.1
 another hotfix for 1.0.0.2
+little twick from release-1.2.0.0 branch
 
